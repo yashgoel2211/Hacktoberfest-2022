@@ -12,9 +12,6 @@
 </div>
 
 
-
-
-
  
 
 # 📌Steps to contribute.
@@ -26,7 +23,7 @@
 
 #### Do the following steps back in my repository(only that will trigger a pull request) and not in your forked one
 
-3. Add algorithms in desired algorithm in specified folder(create new folders as per your requirement). Anything from any language you like.
+3. Add algorithms in desired algorithm in specified folder(create new folders as per your requirement). Anything goes, from android to ML to anything you like.
    
 4. Send a [Pull request](https://github.com/the-hack3rboy/Hacktoberfest-2021/pulls)
 
